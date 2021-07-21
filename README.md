@@ -3,8 +3,9 @@
 In this repository there is Android development projects with the use of java and kortlin.
 The level of projects is beginner to advance. 
 
-![App Screenshot](app.png)
-
+<p align="center">
+  <img src="app.png">
+</p>
   
 ## Projects
 
