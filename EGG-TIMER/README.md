@@ -26,6 +26,6 @@ After completing timer to 0 music play to indicate that time is end now.
 
 ## What it looks like
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./poster.jpeg)
 
   
