@@ -23,7 +23,7 @@ social media platform such as whatsapp,facebook and many more.
   
 ## What it looks like
 
-![Glossary-Diary](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Glossary-Diary](./poster.jpeg)
 
 
   
