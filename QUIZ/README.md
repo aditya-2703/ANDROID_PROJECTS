@@ -29,13 +29,14 @@ this result you also share it with friends and others as text.
 
 ## How to run modules
 
- * This app only consists of one button by pressing it you can add items to list.
+ * User can give answer by pressing yes or no.
 
 ## Features
 
- * User can use this app to remember list of things for shopping.
- * User just have to write things on input box and add items to that list
- * User also able to share this shopping list to any social  media platform
+ * User can use this app to strong their concept in java language.
+ * User just have to give answer by pressing yes or no
+ * At last user see's score and get appropriate message acc to score 
+ * User also able to share his/her score as text to any social  media platform
   
 ## What it looks like
 
