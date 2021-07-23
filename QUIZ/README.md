@@ -40,7 +40,7 @@ this result you also share it with friends and others as text.
   
 ## What it looks like
 
-![QUIZ](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![QUIZ](./poster.jpeg)
 
   
 
