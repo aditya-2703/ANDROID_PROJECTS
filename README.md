@@ -12,5 +12,6 @@ The level of projects is beginner to advance.
  - [EGG-TIMER](https://github.com/aditya-2703/ANDROID_PROJECTS/tree/main/EGG-TIMER)
  - [GLOSSARY-DIARY](https://github.com/aditya-2703/ANDROID_PROJECTS/tree/main/GLOSSARY-DIARY)
  - [QUIZ](https://github.com/aditya-2703/ANDROID_PROJECTS/tree/main/QUIZ)
+ - [WEATHER-APP](https://github.com/aditya-2703/ANDROID_PROJECTS/tree/main/WEATHER-APP)
 
   
