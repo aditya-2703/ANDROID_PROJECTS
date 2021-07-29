@@ -4,7 +4,7 @@ In this repository there is Android development projects with the use of java an
 The level of projects is beginner to advance. 
 
 <p align="center">
-  <img src="bg.png">
+  <img src="poster.png">
 </p>
   
 ## Projects
